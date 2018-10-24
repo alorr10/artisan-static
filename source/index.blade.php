@@ -1,11 +1,44 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>Welcome to Artisan Static for Jigsaw</h1>
+    <div class='faq-container'>
+  <div class='faq'>
+    <h1> Moodboost FAQ </h1>
+    <h2> You got a question? Get it answered </h3>
 
-    <h2>Asset Compilation Test</h2>
+      <h3> What is Moodboost? </h3>
+      <p>
+          1) Once a day, tap the "moodboost" button. </br>
+          2) Take 5 seconds to read your moodboost (news, story, quote, etc) of the day.</br>
+          3) Feel happier. </p>
 
-    <p>CSS test: <span class="test-css">text with border and padding</span></p>
+    <h3> How do I cancel my subscription?  </h2>
+      <p> iOS USERS - You can cancel your subscription directly from your iPhone by following these steps: </br>
 
-    <p>JavaScript test: <a href="#" class="test-js">click me</a></p>
+      Subscriptions are administered and managed directly by Apple iTunes.</br>
+
+      1) Access Settings in the home of your device</br>
+
+      2) Scroll down and tap iTunes Store & AppStore</br>
+
+      3) Tap your e-mail and Apple ID, View Apple ID and enter your password</br>
+
+      4) Now, tap Subscriptions and select Hooked</br>
+
+      5) Tap the "Cancel Subscription" button to cancel</br>
+
+      ANDROID USERS - There are two ways to manage your subscriptions:</br>
+
+      1) On Android, open the Google Play Store, then tap Menu > Subscriptions</br>
+
+      2) On a computer, go to play.google.com, then in the left menu click "My Subscriptions" </p>
+
+
+
+  </div>
+</div>
+
+
+
+
 @endsection

@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
 </head>
 <body>
-    <header>
+<!--     <header>
         <nav>
             <strong>{{ $page->site->title }}</strong><br>
             <ul>
@@ -27,7 +27,7 @@
                 <li><a href="/contact">Contact</a></li>
             </ul>
         </nav>
-    </header>
+    </header> -->
 
     <article>
         <section>
@@ -35,12 +35,12 @@
         </section>
     </article>
 
-    <footer>
+   <!--  <footer>
         <small>
             This project is maintained by <a href="https://raniesantos.netlify.com">Ranie Santos</a>.
             View the <a href="https://github.com/raniesantos/artisan-static">GitHub repo</a>.
         </small>
-    </footer>
+    </footer> -->
 
     <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
     @includeWhen($page->production, '_partials.analytics')

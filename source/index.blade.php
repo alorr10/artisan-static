@@ -4,7 +4,8 @@
     <div class='faq-container'>
   <div class='faq'>
     <h1> Moodboost FAQ </h1>
-    <h2> You got a question? Get it answered </h3>
+    <h2> Don't see your question here? You can always email us at <a href="mailto:alexa@brighten.in">alexa@brighten.in</a> with any questions! We love hearing from you :) </h2>
+
 
       <h3> What is Moodboost? </h3>
       <p>

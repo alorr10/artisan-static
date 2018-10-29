@@ -3,6 +3,7 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](https://oss.ninja/mit/raniesantos)
 [![donate](https://img.shields.io/badge/$-donate-ff5f5f.svg?style=flat-square)](https://ko-fi.com/raniesantos)
 [![chat](https://img.shields.io/badge/chat-discord-7289DA.svg?style=flat-square)](https://discord.gg/8e5sUU6)
+- The Actual Site: [Click Me Bitch](https://practical-lalande-75f828.netlify.com/#)
 
 An advanced starter template for building a static Jigsaw blog hosted on Netlify with analytics, comments, code highlighting, a contact form, a CMS, and more.
 
@@ -53,6 +54,8 @@ $ yarn watch
 ```
 
 Your browser will open [localhost:3000](http://localhost:3000/) automatically.
+
+I believe run `npm run production` to deploy?
 
 ___
 ## Configuration

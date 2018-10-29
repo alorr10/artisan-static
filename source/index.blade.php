@@ -24,7 +24,7 @@
 
       3) Tap your e-mail and Apple ID, View Apple ID and enter your password</br>
 
-      4) Now, tap Subscriptions and select Hooked</br>
+      4) Now, tap Subscriptions and select Moodboost</br>
 
       5) Tap the "Cancel Subscription" button to cancel</br>
 

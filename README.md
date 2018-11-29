@@ -55,7 +55,7 @@ $ yarn watch
 
 Your browser will open [localhost:3000](http://localhost:3000/) automatically.
 
-I believe run `npm run production` to deploy?
+I believe run `npm run production` then push to github to deploy?
 
 ___
 ## Configuration

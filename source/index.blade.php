@@ -9,19 +9,24 @@
 
       <h3> What is Moodboost? </h3>
         <p>
-          1) Once a day, tap the "moodboost" button. </br>
+          1) Once a day, tap the moodboost button. </br>
           2) Take 5 seconds to read your good news story of the day.</br>
           3) Feel happier.
         </p>
 
       <h3> How do I save a moodboost that I like? </h3>
         <p>
-          Just tap the heart icon in the top right!
+          Smile at it! Our smile detection technology will detect your smile and save it to your favorties
         </p>
 
       <h3> How do I share a boost on Instagram? </h3>
         <p>
           Tap the Share Story button to share the image to social platforms, text it to a friend, or save it to your camera roll!
+        </p>
+
+       <h3> What are we doing with your smile data?</h3>
+        <p>
+          NOTHING. We’re checking for your smile cause we wanna make sure we’re doing our job right!
         </p>
 
 

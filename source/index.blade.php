@@ -16,7 +16,7 @@
 
       <h3> How do I save a moodboost that I like? </h3>
         <p>
-          Smile at it! Our smile detection technology will detect your smile and save it to your favorties
+          Smile at it! Our smile detection technology will detect your smile and save it to your favorites.
         </p>
 
       <h3> How do I share a boost on Instagram? </h3>

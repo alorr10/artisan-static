@@ -8,29 +8,29 @@
 
 
       <h3> What is Moodboost? </h3>
-  <!--       <p> These days it feels like all news is negative and depressing. </br>
-        So Moodboost sends you one <b> positive </b> news story each day. </br>
-      Take 5 seconds to read the story, and feel a bit happier </p> -->
         <p>
-          1) Once a day, open the moodboost app. </br>
-          2) Take 5 seconds to read your good news story of the day.</br>
-          3) Feel happier.
+          Every morning, you'll receive the most interesting positive news story we could find. It's a quick daily dose of positivity.
+        </p>
+       <h3> How do I view the whole article?</h3>
+        <p>
+          Touch + hold on a story.
         </p>
 
+        <h3> I heard it can magically detect when I smile?</h3>
+        <p>
+          Impossible. Or is it? Go to settings to turn it on.
+        </p>
 
-      <h3> How do I share a boost on Instagram? </h3>
+        <h3>It costs money after the free trial? B*tch I'm broke!</h3>
+        <p>
+         You might be $0.99 freaking cents poorer next month. But hey at least you'll be in a good mood.
+        </p>
+
+        <h3> How do I share a boost on Instagram? </h3>
         <p>
           Tap the Share Story button to share the image to social platforms, text it to a friend, or save it to your camera roll!
         </p>
-
-       <h3> I want to know more about today's story!</h3>
-        <p>
-          Tap and hold on any boost to read about the story in more detail.
-        </p>
   </div>
 </div>
-
-
-
 
 @endsection

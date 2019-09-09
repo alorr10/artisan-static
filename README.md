@@ -68,3 +68,4 @@ ___
 ## License
 
 Released under the [MIT License](https://oss.ninja/mit/raniesantos).
+# artisan-static-2

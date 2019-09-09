@@ -23,7 +23,7 @@
 
         <h3>It costs money after the free trial? B*tch I'm broke!</h3>
         <p>
-         You might be $0.99 freaking cents poorer next month. But hey at least you'll be in a good mood.
+         You might be $2.99 poorer next month. But hey at least you'll be in a good mood.
         </p>
 
         <h3> How do I share a boost on Instagram? </h3>
